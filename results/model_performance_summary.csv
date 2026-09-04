@@ -1,0 +1,3 @@
+forecast_horizon,mae_improvement_pct,rmse_improvement_pct,hsas_improved,total_hsas,median_hsa_mae_improvement_pct
+1-week,14.75144279107094,10.871295624699338,26,28,11.717302079821142
+2-week,17.971166707450383,13.286734311844919,26,28,14.683460350259793
